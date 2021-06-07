@@ -12,7 +12,7 @@ class Author
   def add_post_by_title
 
   end
-  # def self.all
-  #   @@all
-  # end
+  def self.all
+    @@all
+  end
 end
