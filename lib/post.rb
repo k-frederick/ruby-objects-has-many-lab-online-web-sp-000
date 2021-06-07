@@ -10,7 +10,7 @@
 #   def title
 #     #title
 #   end
-# 
+#
 # end
 class Post
   attr_accessor :title, :author
